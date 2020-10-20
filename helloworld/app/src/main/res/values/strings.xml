@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrisApp</string>
+    <string name="hello">Hello World!</string>
+    <string name="welcome">Welcome to Cris App! </string>
+    <string name ="editText">Create new Item</string>
+    <string name ="buttonGET">GET</string>
+    <string name ="buttonPUT">PUT</string>
+    <string name ="buttonDELETE">DELETE</string>
+</resources>

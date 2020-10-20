@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorNegro">
+
+    <androidx.cardview.widget.CardView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorNegro">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <androidx.appcompat.widget.AppCompatCheckBox
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:background="@color/colorNegro"
+                    android:buttonTint="@color/colorAmarillo"
+                    android:gravity="center_vertical"
+                    android:padding="0dp"
+                    android:visibility="visible"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textview_border">
+
+                <TextView
+                    android:id="@+id/notepad_topic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" topico"
+                    android:textSize="24sp"
+                    android:textColor="@color/colorAmarillo" />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/colorAmarillo"/>
+                <TextView
+                    android:id="@+id/notepad_body"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="     ERKTKRETKREKDOFSGKDFOKODFG"
+                    android:textColor="@color/colorAmarillo"
+                    android:textSize="18dp"
+                    android:maxLines="10"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

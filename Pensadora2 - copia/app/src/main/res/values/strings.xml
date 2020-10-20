@@ -1,0 +1,13 @@
+<resources>
+    <string name="appName">Tinker</string>
+    <string name="appImage">App Image</string>
+    <string name="textSplashScreen">Developed by Cristobal</string>
+    <string name="textMainScreen">Hello Cristobal</string>
+    <string name="textNewTopic">Write a Order</string>
+    <string name="buttonSend">Send</string>
+    <string name="buttonTranslate">Translate</string>
+    <string name="buttonSynonymous">Synonymous</string>
+    <string name="buttonNotepad">Notepads</string>
+    <string name="buttonShowNotepad">Show Notepads</string>
+    <string name="newNote">The Note Was Created</string>
+</resources>

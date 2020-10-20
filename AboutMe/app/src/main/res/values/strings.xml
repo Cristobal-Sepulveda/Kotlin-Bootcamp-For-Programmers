@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Cristóbal Sepúlveda</string>
+    <string name="starImage">starImage</string>
+    <string name="name2">matias sepulveda</string>
+
+
+
+
+
+
+
+    <string name="bio">
+
+                qoiwruwoqieruqopierutqpoirgtuslkfgjsdñlkfgjlkwñrjitwourtiowrgslkfgjsklfgjsklfgjkslf
+                gjoitwiortwoirtjwfskljgdfsklgjs,f.vbslkfgjiwrjtiwrgksfglskfgj.
+        \n\n    twiortwoirtjwfskljgdfsklgjs,f.vbslkfgjiwrjtiwrgksfglskfgtwiortwoirtjwfskljgdfsklgjs,f.
+                vbslkfgjiwrjtiwrgksfglskfgtwiortwoirtjwfskljgdfsklgjs,
+        \n\n    f.vbslkfgjiwrjtiwrgksfglskfg.
+        \n\n    twiortwoirtjwfskljgdfsklgjs,f.vbslkfgjiwrjtiwrgksfglskfgtwiortwoirtjwfskljgdfsklgjs,f
+        \n\n    vbslkfgjiwrjtiwrgksfglskfg.
+        \n\n    twiortwoirtjwfskljgdfsklgjs,f.vbslkfgjiwrjtiwrgksfglskfg
+    </string>
+    <string name="whatIsYourNickName">What is your Nickname</string>
+    <string name="Done">Done</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    /** aqui le dimos el color al fondo*/
+
+    <item android:drawable="@color/colorPrimary" />
+
+    /** aqui vamos a designar la imagen q vamos a utilizar en nuestro splash screen,
+    imagen que vamos a definir con la propiedad bitmap android:src
+    luego, el android:gravity sirve para elegir el lugar en donde se ubicara el icono*/
+
+    <item>
+        <bitmap android:src="@mipmap/mysplash"
+         android:gravity="center"/>
+
+    </item>
+
+</layer-list>

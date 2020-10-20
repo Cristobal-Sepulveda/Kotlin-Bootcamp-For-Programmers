@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Pensadora</string>
+    <string name="appImage">App Image</string>
+    <string name="textSplashScreen">Desarrollado por Cristóbal</string>
+    <string name="textMainScreen">Hola Cristóbal</string>
+    <string name="textNewTopic">Escriba una Orden</string>
+    <string name="buttonSend">Enviar</string>
+    <string name="buttonTranslate">Traducir</string>
+    <string name="buttonSynonymous">Sinonimos</string>
+    <string name="buttonNotepad">Notas</string>
+    <string name="buttonShowNotepad">Mostrar Notas</string>
+</resources>

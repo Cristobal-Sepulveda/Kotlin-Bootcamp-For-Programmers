@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pensadora</string>}
+    <string name="textView1">Welcome to The Pensadora</string>
+    <string name="textView2">The New NotePad to Our Lives</string>
+    <string name="newTopic"> Create New Topic </string>
+    <string name="button1">See all Topics</string>
+    <string name="button2">See an Specific Topic</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pensadora</string>}
+    <string name="textView1">Bienvenido a la Pensadora</string>
+    <string name="textView2">El Nuevo Notepad para Nuestras Vidas</string>
+    <string name="newTopic"> Crear Nuevo Tema</string>
+    <string name="button1">Ver todos los Temas</string>
+    <string name="button2">Ver un Tema en Especifico</string>
+</resources>
